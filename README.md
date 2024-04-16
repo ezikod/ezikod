@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Mirai Lab<br>🌱 I’m currently learning Cloud Technologies, Software Engineering, Data Science 
+🔭 I’m currently working in Mirai Lab<br>🌱 I’m currently learning Data Science, AI, Big Data, Quantum Computing 
 
 
 ## 🌐 Socials:
